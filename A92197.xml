@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mundus nec fuit, nec potuit esse ab æterno</title>
+            <author>Rayne, John, 1672 or 3-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92197</idno>
+            <idno type="STC">Wing R419A</idno>
+            <idno type="STC">ESTC R230758</idno>
+            <idno type="EEBO-CITATION">99896471</idno>
+            <idno type="PROQUEST">99896471</idno>
+            <idno type="VID">154335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2412:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mundus nec fuit, nec potuit esse ab æterno</title>
+                  <author>Rayne, John, 1672 or 3-1700.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Four columns of Latin verse.</note>
+                  <note>The second column is titled "Dantur substantiæ immateriales." The third column is titled "Posita dubitatione cartesiana certa veritatis norma habèri non potest." The fourth column is titled "Libertas arbitrii soli substantiæ immateriali competit."</note>
+                  <note>At foot of page [1]: Jul. 5. 1697. in vesper. comit. resp. in philosoph. Johan. Rayne, A.M. Coll. Joh. Soc.</note>
+                  <note>At foot of page [2]: Jul. 6. 1697. in die comit. resp. in philosoph. Fr. Hare. A.M. Coll. Regal. Soc.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:154335:1" rendition="simple:additions"/>
+            <div type="poem">
+               <head>Mundus nec fuit, nec potuit eſſe ab Aeterno.</head>
+               <lg>
+                  <l>AETherios Orbes tremuláſque vibrantia flammas</l>
+                  <l>Sydera miramur varios coelique meatus;</l>
+                  <l>Unde fugat teneb<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utilis Sol ignibus, unde</l>
+                  <l>Diſſiliunt longo ſlagrantia fulgura tractu,</l>
+                  <l>Unde volant flammae nigra per ſpi<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acula Terrae,</l>
+                  <l>Aut pelagus fremit, ardenti ſe verbere caedit,</l>
+                  <l>Colli<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt ſluctus, atque unda recolligit undam;</l>
+                  <l>Mens incerta <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aeret, juvat &amp; cognoſcere cauſas.</l>
+               </lg>
+               <lg>
+                  <l>Effinxêre alii, quòd plantae, animalia, terrae</l>
+                  <l>Ramoſi frutices, &amp; caecâ n<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cte vagantes</l>
+                  <l>Stellae proflu<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>êre ſimul, gremióque capaci</l>
+                  <l>Exiit aeternus divini Numinis orbis:</l>
+                  <l>Haud ſecùs ac radii vibrati Luminis altum</l>
+                  <l>Aethera colluſtrant, cùm emergit ab aequore Phoebus.</l>
+               </lg>
+               <lg>
+                  <l>At fruſtra jactant levia haec inſomnia rerum;</l>
+                  <l>Quicquid enim aeternum eſt hoc nullo clauditur orbe,</l>
+                  <l>Induit hoc unam magno cum Numine formam,</l>
+                  <l>Hoc Deus eſt, pluréſque Deos natura recuſat,</l>
+                  <l>Nam multi pereunt per mutua vulnera Divi;</l>
+                  <l>Non aliter (ſi parva licet componere magnis)</l>
+                  <l>Quàm validi fluctus rapidis volvuntur in undis,</l>
+                  <l>Partibus adverſis ſtrident &amp; ſydera pulſant,</l>
+                  <l>Congreſſi pereunt per lon a volumina fuſi.</l>
+                  <l>Quod ſemper fuit, id nulſa quaſſabitur arte,</l>
+                  <l>Nec poſſunt flammae, nec edax abolere vetuſtas;</l>
+                  <l>Noſcimus at Mundum fatalem horrere ruinam,</l>
+                  <l>Spumoſos fluctus, undantémque ignibus Aetnam,</l>
+                  <l>Noſcimus horrendos ſolis lunaeque labores,</l>
+                  <l>Ut pellunt coecam red<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>untia Lumina noctem,</l>
+                  <l>Dejiciunt rapido ſegetes &amp; turbine nimbi,</l>
+                  <l>Diverſas patitúrque vices haec Machina mundi,</l>
+                  <l>Foelix hoc aevum eſt, varias cui contigit Artes</l>
+                  <l>E<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uere è tenebris, popul<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>que ignota paternis</l>
+                  <l>Tradere, namque iſtos ſomnus vel devius error</l>
+                  <l>Corripuit, (dixiſſe pudet Deliria vana)</l>
+                  <l>Stultitia aeternóque potens regnavit in Orbe:</l>
+                  <l>Infauſti Patres! quos alta ſilentia condunt,</l>
+                  <l>Quos celant Monumenta nigrâ caligine merſos,</l>
+                  <l>Quos nullum celebrat, néve ullum protulit aevum.</l>
+               </lg>
+               <lg>
+                  <l>Effinxêre alii, ut vaſtum per inane volantes</l>
+                  <l>Collisêre atomis atomi, ſubſultibus iſtis</l>
+                  <l>Fabrica ſurrexit, magnus concrevit &amp; Orbis;</l>
+                  <l>Sic imbres coeunt, lentam glomerantur in undam.</l>
+               </lg>
+               <lg>
+                  <l>At fruſtra ludunt vanâ ſub imagine Veri.</l>
+                  <l>Nam ſatis immenſi effulget ſapientia Patris,</l>
+                  <l>Omnia diſponens certâ ratione modóque:</l>
+                  <l>Murmure ſi tremulo cava fiſtula verberet aures,</l>
+                  <l>Qualis mulſit aquas, faucéſque recluſit Averni,</l>
+                  <l>Verba ligata modis veniant ſi digna <hi>Marone,</hi>
+                  </l>
+                  <l>Argutum miramur opus, doctúmque magiſtrum;</l>
+                  <l>Ingenium artificis monſtrant ex aere columnae</l>
+                  <l>Caelatae, &amp; Pario conſlata è marmore tecta;</l>
+                  <l>Seſe etiam prodit primae ſapientia Cauſae,</l>
+                  <l>Quae deforme Chaos noctémque excuſſit opacam,</l>
+                  <l>Effecit ſolem, concluſit cornua Lunae,</l>
+                  <l>Pondera terrarum vaſtúmque rotavit in Orbem.</l>
+               </lg>
+               <lg>
+                  <l>E nihilo effinxit Divina potentia mundum;</l>
+                  <l>Hoc ſuadet Ratio, ſuadent Monimenta vetuſta.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Dantur Subſtantiae Immateriales.</head>
+               <lg>
+                  <l>LEthalis belli Graecis deferbuit aeſtus,</l>
+                  <l>Numinibúſque ſuis ſolennia vota tulerunt;</l>
+                  <l>Protinus exſurgit (ſive haec fuit ira Deorum,</l>
+                  <l>Seu fatale nefas indignans Tartarus atris</l>
+                  <l>Faucibus evomuit) monſtrum, quod fulmina torta</l>
+                  <l>Nec terrent ruptis vibrati nubibus ignes,</l>
+                  <l>Ejuránſque Deos ſpumantia protulit ora.</l>
+                  <l>Narrat, uti magnum per inane vagantia rerum</l>
+                  <l>Semina ſeminibus concurrunt; agmine longo</l>
+                  <l>Saltantes Atomi noſtrum ſinuantur in orbem.</l>
+                  <l>Naſcitur hinc Terra &amp; rutilantia lumina coeli?</l>
+                  <l>Hinc agitant objecta animos iterúmque recedunt?</l>
+                  <l>In ſumos abeunt Epicuri haec dogmata vana;</l>
+                  <l>Rectiùs arte novâ tradit Doctiſſima turba.</l>
+               </lg>
+               <lg>
+                  <l>Cùm turgent calido ſalientes flumine venae,</l>
+                  <l>Mox tenuis Vapor in nervos caecóſque meatus</l>
+                  <l>Evolat, objectum latebroſo tramite defert</l>
+                  <l>Ad mentem, quae rem volvit ſecúmque revolvit,</l>
+                  <l>Aut vult aut non vult, negat aſſen<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itque negato.</l>
+               </lg>
+               <lg>
+                  <l>Saeviat at fruſtrà, rumpantur ut ilia, Monſtrum,</l>
+                  <l>Non eadem efficiunt errantia ſemina rerum<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Aut immota manent, aut recto tramite tendunt;</l>
+                  <l>Námque vetat ratio in ſinuoſa volumina flecti,</l>
+                  <l>Vel quidni haec eadem praeſtat, cùm proſilit ant<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is</l>
+                  <l>Eurus ab Aeoliis, ſtridens diverberat undas,</l>
+                  <l>Huc illuc rapitur, vario ſe murmure verſat?</l>
+                  <l>Vel quidni jactare poteſt haec Mulciber a<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dens,</l>
+                  <l>Cùm tremulas flammas obliquo tramite volvit?</l>
+                  <l>Quidni Cauſa eadem effectus emittit eoſdem?</l>
+                  <l>Sic etiam Torrens rapidis agitatur in undis,</l>
+                  <l>Praecipitique ruit curſu, dum ſaxea moles</l>
+                  <l>Impedit, &amp; flexu ſinuoſo elabitur amnis;</l>
+                  <l>At non ſponte ſuâ, ſed coeco volvitur aeſtu.</l>
+               </lg>
+               <lg>
+                  <l>Obducit menti tenebras terrena Voluptas,</l>
+                  <l>Quae labefacta timet, ſurdo ſe verbere caedit.</l>
+                  <l>At ſi fortè Deos magno ſub pectore verſet,</l>
+                  <l>Naturámque ſuam; exſultans ad ſydera fertur:</l>
+                  <l>Hinc patet ex Atomis mentem non poſſe creati;</l>
+                  <l>Spiſsâ haec mole caret Divino ſemine nata.</l>
+                  <l>Protea ſed reſerant licèt haec primordia Mundi,</l>
+                  <l>Omnia transforment ſeſe in miracula rerum,</l>
+                  <l>Et varios induta modos, induta figuras</l>
+                  <l>Diverſas volitent; fruſtra haec deliria ſingunt.</l>
+               </lg>
+               <lg>
+                  <l>Teſtatur ratio &amp; praeſaga Oracula Patrum,</l>
+                  <l>Pallentéſque Umbrae, ſimulachráque luce careatum,</l>
+                  <l>Emiſiſſe Deum celeres ſine corpore mentes,</l>
+                  <l>Hinc aliae Coelis longo, quaſi ſulgura, tractu</l>
+                  <l>Delapſae properant mandata faceſſere Divûm,</l>
+                  <l>Vel laetum <hi>Paeana</hi> canunt; hinc <hi>Pythica</hi> Vates</l>
+                  <l>Saeviit atque imo furibunda remugiit antro.</l>
+                  <l>Eſt ſpecus obſcurum in Terrae penetralibus imis,</l>
+                  <l>Squallentes Furiae nigris in faucibus adſtant,</l>
+                  <l>Lethales aperit rimas horrenda Vorago,</l>
+                  <l>Cingunt Tartareae flammiſque rapacibus undae;</l>
+                  <l>Hîc moeſti Manes, triſtis cruciatus &amp; horror,</l>
+                  <l>Hîc iſti Mentes volvuntur gurgite coeco</l>
+                  <l>Aethere dejecit quas ignea Numinis ira;</l>
+               </lg>
+               <lg>
+                  <l>Haec Ratio docet &amp; longa Experientia rerum,</l>
+                  <l>Hinc patet eſſe leves ullo ſine corpore mentes,</l>
+               </lg>
+            </div>
+            <closer>
+               <date>Jul. 5. 1697.</date> in vesper. Comit. Reſp. in Philoſoph. <hi>Johan. Rayne,</hi> A. M. Coll. Joh. <hi>Soc.</hi>
+            </closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:154335:2"/>
+            <div type="poem">
+               <head>Poſita Dubitatione <hi>Carteſiana</hi> certa Veritatis norma habèri non poteſt.</head>
+               <lg>
+                  <l>
+                     <hi>CArteſii</hi> litem, Cynicique, Camaena, <hi>Menippi</hi>
+                  </l>
+                  <l>Dic age, dic &amp; quàm validis rationibus uſus</l>
+                  <l>Elyſii in campis pugnârit uterque ſub Orco:</l>
+                  <l>Conſedit <hi>Minos</hi> Moderator, Philoſophorum</l>
+                  <l>Omnis Grex aderat, praeſertim Sceptica turba,</l>
+                  <l>Sceptica lis agitur, Dubitatio <hi>Carteſiana:</hi>
+                  </l>
+                  <l>Hanc veri Normam pugnax contendit haberi</l>
+                  <l>
+                     <hi>Carteſius,</hi> multo molimine. Pernegat ille,</l>
+                  <l>Et gravibus contrà ſic incipit Argumentis;</l>
+               </lg>
+               <lg>
+                  <l>Vir Bone, ſi Veri ſola eſt haec Regula, Clara</l>
+                  <l>Et diſtincta, ut ais, Perceptio, concute pectus</l>
+                  <l>In te deſcendens, animi &amp; rimare receſſus,</l>
+                  <l>Num potes aſſenſum ſuſpendere? num potes ult<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>à</l>
+                  <l>Eſſe animi incertus, dubiùſque haerere, ſit an non,</l>
+                  <l>Clarè ac diſtinctè cum rem perceperis eſſe?</l>
+                  <l>Hos ſtimulos Natura parens ſub pectore verſat,</l>
+                  <l>Extorquens intùs nutum, ſubigénſque fateri</l>
+                  <l>Invitum, &amp; fruſtrà conantem dicere contrá.</l>
+                  <l>Haec inter ſeſe nunquam coitura repugnant.</l>
+               </lg>
+               <lg>
+                  <l>Quî ſcis eſſe Deum? diſtinctè, ſubjicit ille,</l>
+                  <l>Percipio claréque. Quid ergo? Cum mihi bina</l>
+                  <l>Addubitare jubes an binis juncta quaternum</l>
+                  <l>Efficiant numerum, cur te ſic percipientem</l>
+                  <l>Non dubitare ſinis? Diſtinctè ſubjicit ille</l>
+                  <l>Percipio claréque Deum non fallere poſſe.</l>
+                  <l>Tum verò ingentes <hi>Cynicus</hi> dedit ore cachinnos,</l>
+                  <l>Atque inſtat; Bone Vir, nequeant ſi fallere ſenſus</l>
+                  <l>Et Ratio, quoniam Deus eſt veráxque, bonúſque,</l>
+                  <l>Quî tandem Veri ad Normam Dubitatio ducit?</l>
+                  <l>Arguis in Circo, nec pergis in Argumento.</l>
+                  <l>Haeret <hi>Carteſius,</hi> nec vox nec verba ſequuntur.</l>
+               </lg>
+               <lg>
+                  <l>Aſſurgit <hi>Minos</hi> litem ut componat, &amp; inquit,</l>
+                  <l>Naturae Verique Autor non ſordide, labi</l>
+                  <l>Humanum eſt, neque te pudeat peccâſſe fateri:</l>
+                  <l>Limitibus nimis anguſtis includere tentas</l>
+                  <l>Aurae particulam Divinae, &amp; conſcia Coeli</l>
+                  <l>Pectora, quodque jubes deprendere, non ſinis ipſe:</l>
+                  <l>Sic indagantes latet, aeternúmque latebit</l>
+                  <l>Quaeſitum fruſtrà Verum, &amp; conamina ludet</l>
+                  <l>Irrita non deprenſus, inextricabilis Error.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Libertas Arbitrii ſoli Subſtantiae Im<g ref="char:EOLhyphen"/>materiali competit.</head>
+               <lg>
+                  <l>EJA age, materies cui mens humana videtur,</l>
+                  <l>Con<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ule te, penitúſque animi rimare receſsûs,</l>
+                  <l>Nonnè ibi libertas occurrit? nonnè poteſtas</l>
+                  <l>Velle datur? non te ducit per cuncta voluntas?</l>
+                  <l>Nonnè ibi repperias imo ſub pectore fixum,</l>
+                  <l>Quod benè percipiat, quod res ſecernere poſſit,</l>
+                  <l>Quae<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> en<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>que moram facere, aut abrumpere, ſolo</l>
+                  <l>Ex animi arbitrio, ruptámque reducere porrò?</l>
+                  <l>Nonnè ibi conſilium poſſis deprendere, quod te,</l>
+                  <l>Quae quibus anteferas, quae ſint meliora, docebit?</l>
+                  <l>Nonnè vid<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s te poſſe uti Ratione magiſtrâ,</l>
+                  <l>Si placet, amotis vel adhuc errare tenebris?</l>
+               </lg>
+               <lg>
+                  <l>Haeccine materiae ſunt propria munera? ſunt hae</l>
+                  <l>Virtures, quas pondus iners ſibi vendicet? an quas</l>
+                  <l>Purior &amp; melior Divinae particula aulae?</l>
+                  <l>Undè eſt quòd moles ſeſe determinet ipſa,</l>
+                  <l>Segnis iners moles, quae non niſi pulſa movetur?</l>
+                  <l>Ullanè corporibus perceptio? ſi datur ulla,</l>
+                  <l>Undè ea ſit? facere hoc Impulſio ſi mera poſſit,</l>
+                  <l>Credere tum fas eſt, quando undâ impellitur unda,</l>
+                  <l>Se fluctu obtrudi fluctum ſentire priorem.</l>
+                  <l>Ex nihilo ſi quid fiat, tum fortè putes, quòd</l>
+                  <l>Principiis ſit menti externis orta poteſtas,</l>
+                  <l>Materiéſque tibi donet, quod non habet ipſa.</l>
+               </lg>
+               <lg>
+                  <l>Volve Globum, celeri tranſcurrit tramite campum;</l>
+                  <l>Projicias lapidem, vi multâ diſſecat aethram;</l>
+                  <l>Sed ſi clamando tibi rumpas ilia tota,</l>
+                  <l>Siſte lapis, jam ſiſte, precor; nil proficis; ille</l>
+                  <l>Surdus abit, cursûſque tenax celer uſque movebit,</l>
+                  <l>Si nihil obſtiterit, quod vim dirumpere poſſit.</l>
+                  <l>Undè igitur? quae libertas? vis extima pellit,</l>
+                  <l>Nec quic quam contra pugnare, obſtaréque poſſit.</l>
+               </lg>
+               <lg>
+                  <l>Mens tamen intereà ſine pondere, libera Coelos</l>
+                  <l>Tentat, &amp; aetherias meditando permeat auras,</l>
+                  <l>Arctis materiae vinc'lis, &amp; lege ſoluta,</l>
+                  <l>Ipſa ſibi pennas addit, nec motibus ullis</l>
+                  <l>Erigitur, fictis nec fertur in ardua plagis,</l>
+                  <l>Nec caret incerto clinamine principiorum.</l>
+               </lg>
+            </div>
+            <closer>
+               <date>Jul. 6. 1697.</date> In die Comit. Reſp. in Philoſoph. <hi>Fr. Hare</hi> A. M. Coll. Regal. <hi>Soc.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
